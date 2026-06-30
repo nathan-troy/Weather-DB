@@ -1,0 +1,248 @@
+[
+    {
+        "location_name": "London",
+        "coordinates": {
+            "lat": 51.51,
+            "lon": -0.13
+        },
+        "collected_at": "2026-06-30T17:15",
+        "current_weather": {
+            "temperature": 24.5,
+            "unit": "\u00b0C",
+            "wind_speed": 13.7,
+            "humidity": 36,
+            "humidity_unit": "%"
+        },
+        "hourly_forecast": [
+            19.5,
+            19.1,
+            18.9,
+            18.6,
+            18.4,
+            18.3,
+            18.0,
+            18.1,
+            18.4,
+            18.8,
+            18.6,
+            19.0,
+            20.8,
+            22.1,
+            23.5,
+            24.2,
+            24.5,
+            24.6,
+            24.0,
+            23.3,
+            22.4,
+            21.7,
+            20.9,
+            20.2
+        ]
+    },
+    {
+        "location_name": "Berlin",
+        "coordinates": {
+            "lat": 52.52,
+            "lon": 13.41
+        },
+        "collected_at": "2026-06-30T18:15",
+        "current_weather": {
+            "temperature": 26.6,
+            "unit": "\u00b0C",
+            "wind_speed": 11.1,
+            "humidity": 34,
+            "humidity_unit": "%"
+        },
+        "hourly_forecast": [
+            20.8,
+            20.1,
+            19.4,
+            18.9,
+            18.6,
+            18.1,
+            18.1,
+            18.5,
+            20.0,
+            21.6,
+            23.1,
+            24.7,
+            25.9,
+            27.0,
+            27.8,
+            28.4,
+            28.6,
+            28.8,
+            26.8,
+            25.9,
+            23.2,
+            22.3,
+            21.4,
+            21.1
+        ]
+    },
+    {
+        "location_name": "Riyadh",
+        "coordinates": {
+            "lat": 24.69,
+            "lon": 46.72
+        },
+        "collected_at": "2026-06-30T19:15",
+        "current_weather": {
+            "temperature": 39.4,
+            "unit": "\u00b0C",
+            "wind_speed": 10.4,
+            "humidity": 8,
+            "humidity_unit": "%"
+        },
+        "hourly_forecast": [
+            35.0,
+            33.9,
+            33.3,
+            33.1,
+            32.4,
+            31.7,
+            31.4,
+            32.8,
+            34.8,
+            36.9,
+            38.6,
+            39.9,
+            40.8,
+            41.4,
+            41.8,
+            41.9,
+            41.5,
+            40.9,
+            40.3,
+            39.6,
+            38.7,
+            37.8,
+            37.1,
+            35.9
+        ]
+    },
+    {
+        "location_name": "New York",
+        "coordinates": {
+            "lat": 40.71,
+            "lon": -74.01
+        },
+        "collected_at": "2026-06-30T12:15",
+        "current_weather": {
+            "temperature": 31.1,
+            "unit": "\u00b0C",
+            "wind_speed": 17.7,
+            "humidity": 50,
+            "humidity_unit": "%"
+        },
+        "hourly_forecast": [
+            24.0,
+            23.9,
+            23.5,
+            22.5,
+            22.2,
+            21.6,
+            21.2,
+            23.5,
+            25.2,
+            26.1,
+            27.5,
+            29.7,
+            31.0,
+            31.9,
+            32.7,
+            32.4,
+            32.4,
+            33.1,
+            32.7,
+            31.4,
+            30.0,
+            28.5,
+            27.2,
+            26.1
+        ]
+    },
+    {
+        "location_name": "Sydney",
+        "coordinates": {
+            "lat": -33.87,
+            "lon": 151.21
+        },
+        "collected_at": "2026-07-01T02:15",
+        "current_weather": {
+            "temperature": 13.6,
+            "unit": "\u00b0C",
+            "wind_speed": 13.0,
+            "humidity": 86,
+            "humidity_unit": "%"
+        },
+        "hourly_forecast": [
+            14.4,
+            14.0,
+            13.7,
+            13.5,
+            13.2,
+            13.2,
+            13.2,
+            13.1,
+            14.0,
+            15.9,
+            17.6,
+            18.5,
+            19.5,
+            20.4,
+            20.9,
+            20.5,
+            19.8,
+            18.3,
+            17.3,
+            16.9,
+            16.8,
+            16.8,
+            17.1,
+            17.0
+        ]
+    },
+    {
+        "location_name": "Beijing",
+        "coordinates": {
+            "lat": 39.91,
+            "lon": 116.4
+        },
+        "collected_at": "2026-07-01T00:15",
+        "current_weather": {
+            "temperature": 21.6,
+            "unit": "\u00b0C",
+            "wind_speed": 5.8,
+            "humidity": 93,
+            "humidity_unit": "%"
+        },
+        "hourly_forecast": [
+            21.7,
+            21.4,
+            21.0,
+            20.7,
+            20.5,
+            20.4,
+            20.9,
+            21.7,
+            23.0,
+            24.3,
+            25.0,
+            26.9,
+            27.8,
+            28.6,
+            29.1,
+            29.9,
+            30.3,
+            30.5,
+            30.3,
+            29.1,
+            27.6,
+            27.0,
+            26.4,
+            25.7
+        ]
+    }
+]
