@@ -1,2 +1,2 @@
 # Weather-DB
-Basic extraction, cleaning and filtering of data from meteo.com
+Basic extraction, cleaning and visualisation of data from meteo.com
